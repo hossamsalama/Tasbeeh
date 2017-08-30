@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">عداد التسبيح</string>
+    <string name="sebha_name">السبحة \nالإلكترونية</string>
+    <string name="counter">عداد \n الأذكار</string>
+    <string name="share">مشاركة </string>
+    <string name="setting">إعدادات</string>
+
+    <string name="tasbeeh_general">تسبيح عام</string>
+    <string name="prayer_tasbeeh">بعد الصلاة</string>
+    <string name="sabah_tasbeeh"> أذكار الصباح</string>
+    <string name="masaa_tasbeeh"> أذكار المساء</string>
+
+        <string name="elhamd">الحمد لله</string>
+        <string name="astaghfer">أستغفر الله</string>
+        <string name="sobhan">سبحان الله</string>
+        <string name="sobhanwalhamd">سبحان الله وبحمده</string>
+        <string name="lahawl">لا حول ولا قوة إلا بالله</string>
+        <string name="tahlel">لا إله إلا الله</string>
+
+</resources>

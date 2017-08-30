@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/zekr_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:id="@+id/zekr_name"
+        style="@style/ZekrStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="tasbeeh" />
+
+    <TextView
+        android:id="@+id/zekr_number"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_below="@id/zekr_name"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_not_pressed"
+        android:gravity="center"
+        android:text="0"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="#fff"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
